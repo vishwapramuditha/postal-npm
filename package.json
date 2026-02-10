@@ -1,0 +1,27 @@
+{
+  "name": "sri-lanka-postal-codes",
+  "version": "1.0.0",
+  "description": "Sri Lankan postal codes with city names for developers.",
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwapramuditha/postal-npm.git"
+  },
+  "keywords": [
+    "sri lanka",
+    "postal codes",
+    "cities",
+    "zip codes",
+    "lk"
+  ],
+  "author": "Vishwa Pramuditha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishwapramuditha/postal-npm/issues"
+  },
+  "homepage": "https://github.com/vishwapramuditha/postal-npm#readme"
+}

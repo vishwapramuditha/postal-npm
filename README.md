@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".src/bg.png" alt="Sri Lanka Postal Codes Banner" width="100%" />
+  <img src="src/bg.png" alt="Sri Lanka Postal Codes Banner" width="100%" />
 </div>
 # Sri Lankan Postal Codes & Cities
 

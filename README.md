@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/bg.png" alt="Sri Lanka Postal Codes Banner" width="100%" />
 </div>
-# Sri Lankan Postal Codes & Cities
+#Sri Lankan Postal Codes & Cities
 
 ![npm](https://img.shields.io/npm/v/sri-lanka-postal-codes)
 ![license](https://img.shields.io/npm/l/sri-lanka-postal-codes)

@@ -10,12 +10,12 @@ A lightweight (optimized), zero-dependency npm package for developers to access 
 
 ## Features
 
-- 🇱🇰 **Complete Data**: Access over 2000+ Sri Lankan cities and postal codes.
-- � **Lightweight**: Optimized data for minimal bundle size impact.
-- 🔍 **Powerful Search**: Fuzzy search support for cities and codes.
-- �️ **TypeScript Ready**: Built-in type definitions for excellent developer experience.
-- 🌐 **Multilingual**: Supports Sinhala, Tamil, and English city names.
-- ⚡ **Zero Dependencies**: Keeps your project lean.
+- ↯ **Complete Data**: Access over 2000+ Sri Lankan cities and postal codes.
+- ↯ **Lightweight**: Optimized data for minimal bundle size impact.
+- ↯ **Powerful Search**: Fuzzy search support for cities and codes.
+- ↯ **TypeScript Ready**: Built-in type definitions for excellent developer experience.
+- ↯ **Multilingual**: Supports Sinhala, Tamil, and English city names.
+- ↯ **Zero Dependencies**: Keeps your project lean.
 
 ## Installation
 
